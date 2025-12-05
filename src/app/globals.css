@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+/* globals.css me add karo */
+html,
+body {
+  height: 100%;
+  overflow: hidden; /* important */
+}
